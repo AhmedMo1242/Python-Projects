@@ -1,2 +1,4 @@
 # Python-Projects
-In this folder, I will upload python projects that I did after watching tutorials or by my own to see my improvement in programming.
+In this respiratory , I will upload python projects that I did after watching tutorials or by my own to see my improvement in programming.
+
+First Project I uploaded in that respiratory is Number Guessing, which consists of two parts. First Part is guessing the number that computer enters, and in the second part, The Computer guesses the number you enter.
